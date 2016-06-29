@@ -5,6 +5,11 @@
 * Pierce Martin
 * Wences Shaw-Cortez
 
+## Development
+Suggest you work on a Mac. iTerm + Sublime/Atom or JetBrains PyCharm. Source Tree is a great Git tool to go alongside command line use. 
+git will be used extensively, potentially with a git-flow workflow in the future. 
+git-flow: http://danielkummer.github.io/git-flow-cheatsheet/
+
 ## Software Environment 
 The Anaconda Python environment is recomended for managing python environment used. 
 https://www.continuum.io/downloads
