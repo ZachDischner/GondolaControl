@@ -7,11 +7,14 @@
 
 ## Development
 Suggest you work on a Mac. iTerm + Sublime/Atom or JetBrains PyCharm. Source Tree is a great Git tool to go alongside command line use. 
+
 git will be used extensively, potentially with a git-flow workflow in the future. 
+
 git-flow: http://danielkummer.github.io/git-flow-cheatsheet/
 
 ## Software Environment 
 The Anaconda Python environment is recomended for managing python environment used. 
+
 https://www.continuum.io/downloads
 
 ### Python
@@ -24,6 +27,7 @@ The Python Virtual Environment we're using is called *python35*, it is version 3
 
 #### Create an Environment from Config File
 http://conda.pydata.org/docs/using/envs.html
+
 0. `conda env create -f environment.yml`
 
 #### Activate Python Environment When Ready
